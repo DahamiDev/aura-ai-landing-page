@@ -102,7 +102,7 @@ export default function Pricing({ onOpenModal }) {
           <span className={`text-sm font-medium flex items-center gap-2 ${annual ? 'text-white font-semibold' : 'text-zinc-400'}`}>
             <span>Annual</span>
             <span className="px-2.5 py-0.5 rounded-full bg-amber-500/20 border border-amber-500/40 text-amber-300 text-[10px] font-mono font-bold">
-              Save 20%
+              Save 30%
             </span>
           </span>
         </div>
