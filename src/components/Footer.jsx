@@ -38,7 +38,7 @@ export default function Footer({ onOpenModal }) {
             </div>
 
             <h2 className="text-3xl sm:text-5xl font-extrabold text-white tracking-tight mb-4 leading-tight">
-              Ready to launch something <br />
+              Ready to launch something spectial. <br />
               <span className="text-gradient-amber">that actually works?</span>
             </h2>
             
@@ -50,7 +50,7 @@ export default function Footer({ onOpenModal }) {
               onClick={() => onOpenModal('footer-cta')}
               className="px-8 py-4 rounded-full bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 text-white font-bold text-base shadow-[0_0_35px_rgba(249,115,22,0.6)] hover:shadow-[0_0_50px_rgba(249,115,22,0.9)] hover:scale-105 transition-all duration-300 inline-flex items-center gap-2"
             >
-              <span>Get Started Now</span>
+              <span>Get Started</span>
               <ArrowRight className="w-5 h-5" />
             </button>
 
@@ -97,7 +97,7 @@ export default function Footer({ onOpenModal }) {
               <li><a href="#faq" className="hover:text-amber-400 transition-colors">FAQs</a></li>
               <li><a href="#" className="hover:text-amber-400 transition-colors">Conversion Guide</a></li>
               <li><a href="#" className="hover:text-amber-400 transition-colors">Glassmorphism UI</a></li>
-              <li><a href="#" className="hover:text-amber-400 transition-colors">API Docs</a></li>
+              <li><a href="#" className="hover:text-amber-400 transition-colors">API Doc</a></li>
             </ul>
           </div>
 
